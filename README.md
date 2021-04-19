@@ -3,4 +3,4 @@ PyTorch implementation of Robust Subspace Recovery Layer for Unsupervised Anomal
 
 **For more details, see my blogpost:**
 
-https://zablo.net/blog/post/robust-space-recovery-rsr-layer-pytorch/
+https://zablo.net/blog/post/robust-space-recovery-rsrlayer-pytorch/
